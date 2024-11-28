@@ -1,5 +1,5 @@
 # mentorseries-java
-[따즈아] 멘토씨리즈 자바
+[따즈아] 멘토씨리즈 JAVA
 
 ## 📁 Notion 정리
 - [자바의 시작](https://www.notion.so/14aa00321d9880449c44c9e1e65a96ec?pvs=4)
