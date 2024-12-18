@@ -2,6 +2,13 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="day20.FirstClass.ClassA"/>
+    <fullyQualifiedTypeName name="day21.Member"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="day23.CellPhone"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.StructuredTaskScope"/>
+    <fullyQualifiedTypeName name="day24.Student"/>
+    <fullyQualifiedTypeName name="day24.Leader"/>
+    <fullyQualifiedTypeName name="day24.SportsCar"/>
 </qualifiedTypeNameHistroy>
